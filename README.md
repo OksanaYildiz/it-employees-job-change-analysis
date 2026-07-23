@@ -149,4 +149,10 @@
 
 **Відповідь:** Співробітники з **PhD, High School та Primary School** мають найнижчу готовність змінювати роботу.
 
+## 📂 Структура проєкту
+
+- 🐍 [Python Notebook](./Python/it_employees_job_change_analysis.ipynb)
+- 🗄️ [SQL Queries](./SQL/queries.sql)
+- 📊 [Power BI Dashboard](./it_employees_job_change_analysis.pbix)
+
 Це групи з низьким ризиком для HR, які можна вважати більш стабільними.
